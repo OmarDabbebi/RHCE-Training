@@ -7,7 +7,7 @@ Welcome to this course on system automation with Ansible on Red Hat Enterprise L
 - [Ansible and setup Environment](#i-ansible-and-setup-environement)
 - [Ad-Hoc Commands in Ansible](#ii-ad-hoc-commands-in-ansible)
 - [Playbooks](#iii-playbooks)
-- [Variables and Ansible Facts](iv-#variables-and-ansible-facts)
+- [Variables and Ansible Facts](#iv-variables-and-ansible-facts)
 - [Ansible Vault](#v-ansible-vault)
 - [Conditions & Loops](#vi-conditions--loops)
 - [Jinja2 & Templates](#vii-jinja2--templates)
@@ -518,7 +518,7 @@ The `when` condition in Ansible allows tasks to be executed only if certain cond
         state: present
       when: ansible_facts['distribution'] == "Ubuntu"
 ```
-## VII. Jinja2 & Template
+## VII. Jinja2 & Templates
 ### Jinja2 Syntax and Template Module
 Jinja2 is a templating engine used in Ansible to dynamically generate files. It allows you to include variables, loops, and conditions in configuration files using files with the `.j2` extension.
 
@@ -675,7 +675,7 @@ In this example:
 - If a task inside the block fails, the tasks in the rescue are executed to handle the error.  
 - The tasks in the always are executed, regardless of whether the tasks in the block or rescue succeed or fail.
 
-## IX. Ansible Galax
+## IX. Ansible Galaxy
 `ansible-galaxy` is a command-line tool for managing Ansible roles and collections. It allows you to download, install, and manage roles from public or private repositories.
 
 ### Installing a Role

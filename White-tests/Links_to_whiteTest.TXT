@@ -1,0 +1,14 @@
+EX407: 2019
+https://ziyonotes.uz/rJt6DcqXr
+
+RHCE8: 2022
+https://techinfobest.com/ansible-exam-rhce-8-full-solution-with-explanation/?fbclid=IwAR3BReFfgd3uG14sBuVVY-ZAptvMdcRJaTDROCtWC82tfbYrrtMifBjVPdI
+
+RHCE EX294: 2022
+https://www.seimaxim.com/kb/ansible-sample-exam-questions-and-answers-for-rhce-ex294?fbclid=IwAR1IXeHYbPBdTwXjNUmQuXDLGIbR_ATxySaa7nI5dH9qOSf69iurJHab5rg
+
+RHCE EX294 and EX407: 2019
+https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/
+
+RHCE EX294: 
+https://www.youtube.com/watch?v=iCWa4Me0ykM&ab_channel=NehraClasses
